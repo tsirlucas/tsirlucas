@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**tsirlucas/tsirlucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im Lucas. I've been working as a software engineer for around 6 years.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 Professionaly working with React and Typescript
+- 🍺 Coffee hater, beer drinker
+- 🐶 I live with a dog and 4 cats 🐱
+- :octocat: I like to implement automated solutions and to contribute to OSS projects I use at work:
+  - https://github.com/GoogleChrome/workbox/pull/1598
+  - https://github.com/semantic-release/semantic-release/pull/961
+  - https://github.com/facebook/docusaurus/pull/4899
+  - https://github.com/facebook/react/pull/21902
+  - [GetStream/stream-chat-react-native](https://github.com/GetStream/stream-chat-react-native/pulls?q=is%3Apr+author%3Atsirlucas+is%3Aclosed)
