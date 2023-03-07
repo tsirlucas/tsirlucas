@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Im Lucas. I've been working as a software engineer for around 6 years.
+I'm Lucas. I've been working as a software engineer for around 6 years.
 
 - 🏢 Professionaly working with React and Typescript
 - 🍺 Coffee hater, beer drinker
