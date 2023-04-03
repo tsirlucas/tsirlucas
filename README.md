@@ -11,3 +11,4 @@ I'm Lucas. I've been working as a software engineer for around 6 years.
   - https://github.com/facebook/docusaurus/pull/4899
   - https://github.com/facebook/react/pull/21902
   - [GetStream/stream-chat-react-native](https://github.com/GetStream/stream-chat-react-native/pulls?q=is%3Apr+author%3Atsirlucas+is%3Aclosed)
+  - https://github.com/Urigo/graphql-mesh/pull/5206
