@@ -4,7 +4,7 @@ I'm Lucas. I've been working as a software engineer for around 6 years.
 
 - 🏢 Professionaly working with React and Typescript
 - 🍺 Coffee hater, beer drinker
-- 🐶 I live with a dog and 4 cats 🐱
+- 🐶 I live with a dog and 5 cats 🐱
 - :octocat: I like to implement automated solutions and to contribute to OSS projects I use at work:
   - https://github.com/GoogleChrome/workbox/pull/1598
   - https://github.com/semantic-release/semantic-release/pull/961
