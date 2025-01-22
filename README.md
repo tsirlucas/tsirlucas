@@ -14,3 +14,4 @@ I'm Lucas. I've been working as a software engineer for around 6 years.
   - https://github.com/Urigo/graphql-mesh/pull/5206
   - https://github.com/vitest-dev/vitest/pull/7152
   - https://github.com/vitest-dev/vitest/pull/7250
+  - https://github.com/vitest-dev/vscode/pull/577
